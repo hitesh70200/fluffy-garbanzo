@@ -68,6 +68,7 @@ Contributions to enhance the understanding or analysis of Mirai, or to improve t
 
 ## Contact
 
-[Your Name/GitHub Profile Link]
+Hitesh Prakash Sonawane/hiteshsonawane2000@gmail.com/https://github.com/hitesh70200
+
 
 
