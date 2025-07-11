@@ -65,9 +65,6 @@ cd malware-analysis-mirai
 
 Contributions to enhance the understanding or analysis of Mirai, or to improve the documentation, are welcome. Please feel free to fork the repository, make improvements, and submit pull requests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
